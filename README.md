@@ -5,5 +5,4 @@
 | Pil Danışmanlık |                 |       |         |       |            |             |
 | Yotek Bilişim   | ProOkul         |       |         |       |            |             |
 | İninal          |                 |       |         |       |            |             |
-| Watsons         | Watsons Türkiye |       |         |       |            |             |
-| B&G Store       | B&G Store       |       |         |       |            |             |
+| Inveon         | Çeşitli uygulamalar |       |         |       |            |             |

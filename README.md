@@ -5,6 +5,7 @@
 | Pil Danışmanlık |                 |       |         |       |            |             |
 | Yotek Bilişim   | ProOkul         |       |         |       |            |             |
 | İninal          |                 |       |         |       |            |             |
+| Forms.app         | FormsApp      | ✅ Var|   ✅ Var | ❌ |           |             |
 | Inveon          | Çeşitli uygulamalar |       |         |       |            |             |
 | Rewire Teknoloji| Çeşitli uygulamalar |       |         |       |            |             |
 | Eçözüm          | Netahsilat      | ✅ Var | ✅ Var| ❌   |            |             |

@@ -6,3 +6,4 @@
 | Yotek Bilişim   | ProOkul         |       |         |       |            |             |
 | İninal          |                 |       |         |       |            |             |
 | Inveon         | Çeşitli uygulamalar |       |         |       |            |             |
+| Forms.app         | FormsApp      | ✅ Var|   ✅ Var | ❌ |           |             |

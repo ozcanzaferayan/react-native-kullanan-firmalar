@@ -5,4 +5,7 @@
 | Pil Danışmanlık |                 |       |         |       |            |             |
 | Yotek Bilişim   | ProOkul         |       |         |       |            |             |
 | İninal          |                 |       |         |       |            |             |
-| Inveon         | Çeşitli uygulamalar |       |         |       |            |             |
+| Inveon          | Çeşitli uygulamalar |       |         |       |            |             |
+| Eçözüm          | Netahsilat      | ✅ Var | ✅ Var| ❌   |            |             |
+| Eçözüm          | Netekstre       | ✅ Var | ✅ Var| ❌   |            |             |
+| Infinity Teknoloji| Mobil Akademi | ✅ Var | ✅ Var| ❌   |            |             |

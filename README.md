@@ -7,5 +7,6 @@
 | İninal          |                 |       |         |       |            |             |
 | Inveon          | Çeşitli uygulamalar |       |         |       |            |             |
 | Rewire Teknoloji| Çeşitli uygulamalar |       |         |       |            |             |
-
-
+| Eçözüm          | Netahsilat      | ✅ Var | ✅ Var| ❌   |            |             |
+| Eçözüm          | Netekstre       | ✅ Var | ✅ Var| ❌   |            |             |
+| Infinity Teknoloji| Mobil Akademi | ✅ Var | ✅ Var| ❌   |            |             |

@@ -18,4 +18,4 @@
 | [Charmy](https://github.com/up-inside) |     | ✅ [Var](https://apps.apple.com/tr/app/charmy-discover-music-movie/id1453332911) | ✅ [Var](https://play.google.com/store/apps/details?id=app.charmy) | ✅ [Var](https://beta.charmy.app)   |            |             |
 | Akınsoft   | Çeşitli Uygulamalar | ✅ Var | ✅ Var| ✅ Var   |            |             |
 | Setur       | Setur       | ✅ Var | ✅ Var   | ❌     | ❌          |             |
-| Trendyol    | Satıcı Paneli     | ✅ Var | ✅ Var   | ❌     | ❌          |             |
+| Trendyol    | Satıcı Paneli, Kurye Uygulaması ve Çeşitli Uygulamalar     | ✅ Var | ✅ Var   | ❌     | ❌          |             |

@@ -12,3 +12,4 @@
 | Eçözüm          | Netekstre       | ✅ Var | ✅ Var| ❌   |            |             |
 | Infinity Teknoloji| Mobil Akademi | ✅ Var | ✅ Var| ❌   |            |             |
 | House of Apps   | Çeşitli Uygulamalar | ✅ Var | ✅ Var| ✅ Var   |            |             |
+| Kredi Kayıt Bürosu | Findeks Mobil | ✅ Var | ✅ Var| ❌   |            |             |

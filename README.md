@@ -20,3 +20,4 @@
 | Setur       | Setur       | ✅ Var | ✅ Var   | ❌     | ❌          |             |
 | Trendyol    | Satıcı Paneli, Kurye Uygulaması ve Çeşitli Uygulamalar     | ✅ Var | ✅ Var   | ❌     | ❌          |             |
 | Domino's    | Domino's Mobil Uygulama     | ✅ Var | ✅ Var   | ❌     | ❌          |             |
+| Doxa Labs    | Blueway     | ✅ Var | ✅ Var   | ❌     | ❌          |             |

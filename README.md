@@ -2,7 +2,7 @@
 |-----------------|-----------------|-------|---------|-------|------------|-------------|
 | Fibabanka       | Fibabanka       | ✅ Var | ✅ Var   | ✅ Var | ❌          |             |
 | Otelz.com       | Otelz.com       | ✅ Var | ✅ Var   | ❌     | ❌          |             |
-| Pil Danışmanlık |                 |       |         |       |            |             |
+| Pil Danışmanlık | Bliss           | ✅ Var | ✅ Var   | ❌     | ❌          |             |
 | Yotek Bilişim   | ProOkul         |       |         |       |            |             |
 | İninal          |                 |       |         |       |            |             |
 | Forms.app         | FormsApp      | ✅ Var|   ✅ Var | ❌ |           |             |

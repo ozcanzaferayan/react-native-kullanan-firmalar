@@ -21,4 +21,4 @@
 | Trendyol    | Satıcı Paneli, Kurye Uygulaması ve Çeşitli Uygulamalar     | ✅ Var | ✅ Var   | ❌     | ❌          |             |
 | Domino's    | Domino's Mobil Uygulama     | ✅ Var | ✅ Var   | ❌     | ❌          |             |
 | Doxa Labs    | [Blueway](https://blueway.app)     | ✅ [Var](https://apps.apple.com/tr/app/blueway-blue-voyage/id1528899724) | ✅ [Var](https://play.google.com/store/apps/details?id=com.doxalabs.blueway)   | ❌     | ❌          | Mavi Yolculuk için Dijital Dönüşüm |
-| SabancıDx     | Çeşitli uygulamalar | ✅ Var | ✅ Var| ❌   |            |             |
+| SabancıDx     | Çeşitli uygulamalar | ✅ Var | ✅ Var | ❌          |             |             |

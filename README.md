@@ -23,3 +23,4 @@
 | Doxa Labs    | [Blueway](https://blueway.app)     | ✅ [Var](https://apps.apple.com/tr/app/blueway-blue-voyage/id1528899724) | ✅ [Var](https://play.google.com/store/apps/details?id=com.doxalabs.blueway)   | ❌     | ❌          | Mavi Yolculuk için Dijital Dönüşüm |
 | SabancıDx     | Çeşitli uygulamalar | ✅ Var | ✅ Var | ❌          |             |             |
 | Biryudumkitap/Fabula     | [Biryudumkitap](https://biryudumkitap.com)  | ✅ [Var](https://apps.apple.com/tr/app/biryudumkitap-oku-ve-dinle/id1476943033) | ✅ [Var](https://play.google.com/store/apps/details?id=com.biryudumkitap) | ❌          |             | Biryudumkitap is a mobile app providing nonfiction book summaries & short stories.| 
+| Togi Teknoloji    | [LiBat™ Connect](https://li-bat.com)     | ✅ [Var]() | ✅ Var | ✅ Var | | Remote Monitoring for Lithium Batteries |
